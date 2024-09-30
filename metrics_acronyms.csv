@@ -1,0 +1,44 @@
+Metric Name,Acronym,Importance,Description
+Profit margin,ebit_sale,Primary,Earnings Before Interest and Taxes scaled by total sales
+Return on equity,ni_be,Primary,Net income scaled by the book value of equity
+Gross profits-to-assets,gp_at,Primary,Gross profits scaled by total assets
+Operating accruals,oaccruals_at,Primary,Operating accruals scaled by total assets
+Earnings volatility,ni_ivol,Primary,Volatility (standard deviation) of net income
+Earnings-to-price,ni_me,Primary,Net income scaled by market equity
+CAPEX growth (1 year),capx_gr1,Primary,Capital expenditures growth over one year
+Return on net operating assets,ebit_bev,Primary,Return on net operating assets
+Earnings persistence,ni_ar1,Primary,Net income scaled by book value of equity over quarters
+Quarterly return on assets,niq_at,Secondary,"Net income scaled by assets, quarterly"
+Change in quarterly return on equity,niq_be_chg1,Secondary,Quarterly change in return on equity
+Earnings variability,earnings_variability,Secondary,Variation in reported earnings
+Quaterly return on assets,niq_at,Secondary,Net income scaled by assets
+Change in operating cash flow to assets,ocf_at_chg1,Secondary,Change in operating cash flow scaled by assets
+Book leverage,at_be,Primary,Assets to book value of equity ratio
+Cash-to-assets,cash_at,Primary,Cash scaled by total assets
+Debt-to-market,debt_me,Primary,Total debt scaled by market equity
+Net stock issues,chcsho_12m,Primary,Net stock issues over 12 months
+Net debt issuance,netdebt_me,Primary,Net debt issuance scaled by market equity
+Net equity issuance,eqnetis_at,Primary,Net equity issuance scaled by assets
+CAPEX growth (3 years),capx_gr3,Primary,Capital expenditures growth over three years
+Liquidity of book assets,aliq_at,Primary,Liquidity scaled by assets
+Growth in book debt (3 years),debt_gr3,Primary,Book debt growth over three years
+Liquidity of market assets,aliq_mat,Secondary,Market asset liquidity scaled
+Change in noncurrent operating liabilities,ncol_gr1a,Secondary,Change in noncurrent operating liabilities
+Change in net financial assets,nfna_gr1a,Secondary,Change in net financial assets
+Change in current operating assets,coa_gr1a,Secondary,Change in current operating assets
+Change in noncurrent operating assets,ncoa_gr1a,Secondary,Change in noncurrent operating assets
+Market Beta,beta_60m,Primary,Beta calculated over 60 months
+Book-to-market equity,be_me,Primary,Book equity to market equity ratio
+Ebitda-to-market enterprise value,ebitda_mev,Primary,EBITDA scaled by market enterprise value
+Price-to-cash flow,fcf_me,Primary,Price to cash flow ratio
+Dividend yield,div12m_me,Primary,Dividend yield over 12 months scaled by market equity
+Amihud Measure,ami_126d,Primary,Amihud liquidity measure over 126 days
+Market correlation,corr_1260d,Primary,Correlation with market returns over 126 days
+Dollar trading volume,dolvol_126d,Primary,Dollar trading volume over 126 days
+Coskewness,coskew_21d,Primary,Coskewness of returns over 21 days
+Downside beta,betadown_252d,Primary,Downside beta calculated over 252 days
+High-low bid-ask spread,bidaskhl_21d,Secondary,High-low bid-ask spread over 21 days
+Market equity,market_equity,Secondary,Market equity value
+Book-to-market enterprise value,bev_mev,Secondary,Book equity to market enterprise value ratio
+Change in common equity,be_gr1a,Secondary,Change in common equity over 12 months
+stock price,prc,Primary,stock price
