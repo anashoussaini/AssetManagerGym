@@ -395,10 +395,6 @@ The environment expects the stock data in a specific JSON format.
 
 ---
 
-## Contact
-
-For any questions or support, please open an issue on the repository or contact the maintainer at [email@example.com](mailto:email@example.com).
-
----
+Goodluck Trading. 
 
 *Happy trading and reinforcement learning!*
