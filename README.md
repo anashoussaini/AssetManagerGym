@@ -304,13 +304,10 @@ env = assetmanagergym(
 
 - **Unrealized P&L**:
 
-  \[
-  \text{price\_change} = \frac{\text{next\_price} - \text{entry\_price}}{\text{entry\_price}}
-  \]
+    $`\text{price\_change}=\frac{\text{next\_price} - \text{entry\_price}}{\text{entry\_price}}`$
 
-  \[
-  \text{unrealized\_pnl} = \text{price\_change} \times \text{position}
-  \]
+    $`\text{unrealized\_pnl}=\text{price\_change}\times\text{position}`$
+
 
 - **Stop Loss Triggered**:
 
